@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "unordered_map": "cpp"
+    },
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.9/bin/python3",
+    "C_Cpp.errorSquiggles": "Disabled"
+}
